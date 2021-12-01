@@ -1,0 +1,23 @@
+flame25 {
+position: relative;
+margin: 2em auto;
+padding: 1.2em;
+width: 100%;
+color: #555555;
+background-color: #fff;
+border: 2px solid #8FBC8F;
+box-shadow: 2px 2px 1px #ccc;
+}
+.flame25 .flame25-title{
+position: absolute;
+padding: 0 .5em;
+left: 20px;
+top: -15px;
+font-weight: bold;
+background-color: #fff;
+color: #8FBC8F;
+}
+.flame25 p {
+padding: 15px 20px;
+margin: 0;
+}
